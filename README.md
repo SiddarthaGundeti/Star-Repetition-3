@@ -36,4 +36,5 @@ If the input string is qwerty@2020:
 The first character is q and the last character is 0.
 The string length is 10, so the number of asterisks needed is 8.
 Concatenating these, we get q + ******** + 0 = q********0
+
 The output will be: q********0
