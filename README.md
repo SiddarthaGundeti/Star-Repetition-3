@@ -1,6 +1,6 @@
 # Star-Repetition-3
 
-write a program that reads a word and prints stars (*) equal to the length of the word.
+write a program that reads a string and prints the first and last characters of the given string and prints the (*) instead of the remaining characters.
 
 Input: qwerty@2020
 
